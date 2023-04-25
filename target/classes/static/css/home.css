@@ -1,0 +1,97 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header{
+    width: auto;
+    height:auto;
+    padding: 15px;
+    background: url("/pictures/login.jpg");
+}
+
+ul.hr li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 60px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header ul {
+    padding: 1%;
+    display: inline-block;
+    float: right;
+    margin-right: 5%;
+}
+
+
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-left: 10%;
+}
+
+.main{
+    padding-left: 15%;
+    width: 100wh;
+    height: 70%;
+    padding-top: 15%;
+    padding-bottom: 20%;
+    background: url("/pictures/fon7.jpg");
+    background-size: cover;
+}
+
+.home{
+    color: #000000;
+    padding: 20px;
+    margin-left: 5%;
+}
+
+td{
+    background: rgba(158, 150, 145, 0.5);
+    margin: 0;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+th{
+   border: 1px solid #ffffff;
+   border-radius: 20px;
+   background: rgb(255, 255, 255);
+   overflow: hidden;
+}
+
+h2{
+    display: inline;
+    font-size: 70px;
+    color: #fff;
+}
+
+h1{
+    display: inline;
+    font-size: 70px;
+    color: #d1a072;
+}
+
+.homeAp{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+h3{
+    color: #000;
+    font-size: 30px;
+}
+
+.acceptReq{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+}

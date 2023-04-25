@@ -1,0 +1,89 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header{
+    width: auto;
+    height:auto;
+    padding: 15px;
+    background: url("/pictures/login.jpg");
+}
+
+ul.hr li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 60px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header ul {
+    padding: 1%;
+    display: inline-block;
+    float: right;
+    margin-right: 5%;
+}
+
+
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-left: 10%;
+}
+
+.mainAdmin{
+    padding-left: 10%;
+    width: 100wh;
+    height: auto;
+    padding-top: 10%;
+    background: url("/pictures/fon7.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.back{
+    width: 90%;
+    height: auto;
+    padding: 50px;
+    background: url("/pictures/login.jpg");
+    border-radius: 20px;
+    text-align: center;
+}
+
+input[class="form-input"]{
+       width: 260px;
+       height: 50px;
+
+       margin-top: 2%;
+
+       color: #5E6472;
+
+       outline: none;
+       border: none;
+
+       border-radius: 10px;
+}
+
+input[id="txt-input"] {width: 270px;}
+input[id="pwd"] {width: 270px;}
+
+.acceptReq{
+    width: 270px;
+    height: 50px;
+    margin-top: 2%;
+    border-radius: 10px;
+    background-color: green;
+    border: none;
+}
+
+.accept{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    border: none;
+}

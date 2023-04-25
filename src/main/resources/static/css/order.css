@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    background: url("/pictures/fon7.jpg");
+    background: cover;
+}
+
+h4{
+    display: inline;
+}
+
+p{
+    display: inline;
+}
+
+.orderMain{
+    width: 100%;
+    margin-top: 10%;
+}
+
+.order{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+    color: white;
+    background: url("/pictures/login.jpg");
+    padding: 15px;
+    border-radius: 15px;
+}
+
+h3{
+    display: inline;
+}
+
+.header{
+    width: auto;
+    height:auto;
+    padding: 15px;
+    background: url("/pictures/login.jpg");
+}
+
+ul.hr li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 60px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header ul {
+    padding: 1%;
+    display: inline-block;
+    float: right;
+    margin-right: 5%;
+}
+
+
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-left: 10%;
+}
+
+.main{
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.conOrder{
+    margin: 0 auto;
+    width: 30%;
+    background: url("/pictures/login.jpg");
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+.supOrder{
+    margin: 0 auto;
+    width: 30%;
+    background: url("/pictures/login.jpg");
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+.centerTable{
+    margin: 0 auto;
+    width: 30%;
+    color: white;
+    background: url("/pictures/login.jpg");
+    padding: 20px;
+    border-radius: 15px;
+}
+
